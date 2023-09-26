@@ -1,6 +1,6 @@
 # Hi! 👋 My name is Furkan
 I cannot guarantee that I can do everything you want. But I can guarantee that I will do everything I can to the end.
-- 🔭 I’m currently working on Digitastic.de
+- 🔭 I’m currently open to work.
 
 # MySkills
 
