@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8"> 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Read Me!</title>
-    <style>
-        body{
-            background-color: black;
-        }
-    </style>
-</head>
-<body>
     # Hi! 👋 My name is Furkan
     I cannot guarantee that I can do everything you want. But I can guarantee that I will do everything I can to the end.
     - 🔭 I’m currently open to work.
@@ -50,6 +37,3 @@
     </p>
 
     ![Snake animation](https://svgshare.com/i/fRJ.svg)
-
-</body>
-</html>
