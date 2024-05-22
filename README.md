@@ -1,6 +1,5 @@
 # Hi! 👋 My name is Furkan
 I can't guarantee you that I can do everything. But I can guarantee that I can do anything I say it can be possible.
-[](url)-
 
 # MySkills
 
