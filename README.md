@@ -1,5 +1,5 @@
 # Hi! 👋 My name is Furkan
-I can't guarantee you that I can do everything. But I can guarantee that I can do anything I say it can be possible.
+I can’t promise I can do everything, but I can promise I’ll do anything I say I can.
 
 # MySkills
 
