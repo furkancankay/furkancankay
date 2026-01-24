@@ -35,4 +35,4 @@ Also you can reach me from my these applications.
   <a href="https://twitter.com/Fcnkaya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
  </p>
 
- ![Snake animation](https://svgshare.com/i/fRJ.svg)
+ ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
