@@ -1,6 +1,6 @@
 # Hi, I'm Furkan 👋
 
-I build things end-to-end — from 6502 CPUs in C to React Native apps and trading bots.
+I build things end-to-end — from 6502 CPUs in C to React Native apps.
 
 > *I can't promise I can do everything, but I can promise I'll do anything I say I can.*
 
