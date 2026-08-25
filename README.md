@@ -25,12 +25,11 @@ I build things end-to-end.
 
 ### 🚀 What I'm into
 
-- **Low-level** — writing a 6502 CPU emulator + tiny OS in C (SDL2 terminal, shell, assembler)
 - **Full-stack web** — React, FastAPI, PHP, MySQL, Docker
 - **Mobile** — React Native (iOS / Android)
 - **Hardware + IoT** — ESP8266 home automation, presence-aware lighting
 - **Trading bots** — async Python, websockets, correlation strategies
-
+- 
 ---
 
 ### 🌐 Find me
